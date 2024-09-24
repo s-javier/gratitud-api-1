@@ -15,4 +15,6 @@ export enum Error {
   USER_WITHOUT_ORGANIZATION = 'user without organization',
   USER_NOT_ASSOCIATED_CHANGE_ORGANIZATION = 'user not associated with the change in organization',
   USER_NOT_ASSOCIATED_CURRENT_ORGANIZATION = 'user not associated with current organization',
+
+  GRATITUDE_NOT_FOUND = 'gratitude not found or not belong',
 }
